@@ -1,6 +1,6 @@
 # ==========================================
-# Name: Your Name
-# Roll No: Your Roll No
+# Name: om
+# Roll No: 2301010355
 # Course: Image Processing & Computer Vision
 # Assignment: Intelligent Image Processing System
 # Date:
